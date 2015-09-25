@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Creare_CategoryAttributes>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog/>
+            </depends>
+        </Creare_CategoryAttributes>
+    </modules>
+</config>

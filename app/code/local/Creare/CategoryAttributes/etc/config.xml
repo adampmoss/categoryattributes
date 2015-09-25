@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Creare_CategoryAttributes>
+            <version>0.1.0</version>
+        </Creare_CategoryAttributes>
+    </modules>
+    <global>
+        <resources>
+            <creare_categoryattributes_setup>
+                <setup>
+                    <module>Creare_CategoryGrid</module>
+                </setup>
+            </creare_categoryattributes_setup>
+        </resources>
+    </global>
+</config>
