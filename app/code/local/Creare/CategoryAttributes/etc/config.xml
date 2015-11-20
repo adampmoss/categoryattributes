@@ -9,7 +9,7 @@
         <resources>
             <creare_categoryattributes_setup>
                 <setup>
-                    <module>Creare_CategoryGrid</module>
+                    <module>Creare_CategoryAttributes</module>
                 </setup>
             </creare_categoryattributes_setup>
         </resources>
